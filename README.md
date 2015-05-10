@@ -51,8 +51,6 @@ The repository contains the following files:
 
 - 'README.md'
 
-- 'Codebook.md'
-
 - 'household_power_consumption.txt' : Data set files that contains average of each measured variables for household power consumption
 
 - 'plot1.R'
